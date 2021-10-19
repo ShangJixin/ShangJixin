@@ -2,19 +2,22 @@
 ------
 Hey, I'm a student from Jilin (Hometown is Heilongjiang) Province, a colleager.
 
-I'm currently in my third year of college.
+I'm currently in my third year of college and major in computer science and technology.
 
 Here is my blog : https://shangjixin.com/
 
 [Jump to My Blog to Read More...](https://shangjixin.com/about.html)
 
 ## Skills
-My skills are related to WEB.
+My skills are related to WEB development.
+
 I'm tend to use jQuety, HTML/CSS and PHP.
+
 Because of the course of school, I can roughly to use C++, C#, Java (Simple Console Application).
 
 ## Job
 I will try to improve myself...
+
 Although still a student. But I still have a headache about looking for a job.
 
 <!--
