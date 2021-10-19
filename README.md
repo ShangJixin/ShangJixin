@@ -11,7 +11,7 @@ Here is my blog : https://shangjixin.com/
 ## Skills
 My skills are related to WEB development.
 
-I'm tend to use jQuety, HTML/CSS and PHP.
+I tend to use jQuery, HTML/CSS and PHP.
 
 Because of the course of school, I can roughly to use C++, C#, Java (Simple Console Application).
 
