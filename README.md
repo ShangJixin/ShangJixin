@@ -18,7 +18,7 @@ Because of the course of school, I can roughly to use C++, C#, Java (Simple Cons
 ## Job
 I will try to improve myself...
 
-Although still a student, I still have a headache about looking for a job.
+Although is a student, I still have a headache about looking for a job.
 
 <!--
 **ShangJixin/ShangJixin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
