@@ -4,7 +4,7 @@ Hey, I'm a student from Jilin (Hometown is Heilongjiang) Province, a colleager.
 
 I'm currently in my third year of college and major in computer science and technology.
 
-<a href="https://shangjixin.com/about.html" target="_blank">[Read More in My Blog]</a>
+<a href="https://shangjixin.com/about.html" target="_blank">[Read More in My Blog...]</a>
 
 ## Skills
 My skills are related to WEB development.
