@@ -2,7 +2,7 @@
 ------
 ### Hey, I'm Jixin! An ex-Minecraft player.
 
-- 🧑‍💻 I work in a non-computer related business.
+- 🧑‍💻 I'm work in a non-computer related business.
 - 🏫 My college major is computer science.
 - 🌐 I'm focusing on [my blog](https://shangjixin.com).
 - 📌 Web development / PHP.
